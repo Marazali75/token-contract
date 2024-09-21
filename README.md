@@ -1,4 +1,4 @@
-hi# Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
+hhi# Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
 
 ## NFT (Non-Fungible tokens) in `nft` folder
 
